@@ -21,7 +21,6 @@ Une application météo simple et rapide développée avec **React JS** et **Vit
 - CSS
 
 ---
-
 ## 📦 Installation
 
 Clone le projet :
