@@ -12,7 +12,6 @@ Une application météo simple et rapide développée avec **React JS** et **Vit
 - ⚡ Interface rapide grâce à Vite
 
 ---
-
 ## 🛠️ Technologies utilisées
 
 - React JS
